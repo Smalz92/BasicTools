@@ -1,0 +1,10 @@
+1.sudo apt-get install libxml2-dev
+
+2.sudo apt-get install libxml2
+
+3.dpkg -s libxml2-dev
+
+4.dpkg -L libxml2-dev
+
+
+gcc -I /usr/include/libxml2 example_xml.c -o XmlFile -lxml2

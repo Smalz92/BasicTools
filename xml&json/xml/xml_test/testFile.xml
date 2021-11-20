@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+  <domain>
+    <title>log config</title>
+    <author>Smalz</author>
+    <datewritten>2021-11-19</datewritten>
+  </domain>
+  <body>
+    <headline>This is the headline</headline>
+    <para>This is the body text</para>
+  </body>
+</company>
